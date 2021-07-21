@@ -14,3 +14,4 @@ namespace _1911060250_ToVinhThai_Lab7._1.Models
         public decimal Price { get; set; }
     }
 }
+//done
